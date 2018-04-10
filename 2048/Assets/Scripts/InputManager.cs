@@ -28,22 +28,18 @@ public class InputManager : MonoBehaviour {
 		{
 			if (Input.GetKeyDown (KeyCode.RightArrow))
 			{
-				//right move
 				gm.Move(MoveDirection.Right);
 			}
 			else if (Input.GetKeyDown (KeyCode.LeftArrow))
 			{
-				//left move
 				gm.Move(MoveDirection.Left);
 			}
 			else if (Input.GetKeyDown (KeyCode.UpArrow))
 			{
-				//up move
 				gm.Move(MoveDirection.Up);
 			}
 			else if (Input.GetKeyDown (KeyCode.DownArrow))
 			{
-				//down move
 				gm.Move(MoveDirection.Down);
 			}
 		}

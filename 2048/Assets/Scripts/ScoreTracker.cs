@@ -21,7 +21,7 @@ public class ScoreTracker : MonoBehaviour {
 			score = value;
 			ScoreText.text = score.ToString();
 
-			if (PlayerPrefs.GetInt("HighScore") < score)
+			if (PlayerPrefs.GetInt("HighScores") < score)
 			{
 				PlayerPrefs.SetInt("HighScore", score);
 				HighScoreText.text = score.ToString();
@@ -32,7 +32,6 @@ public class ScoreTracker : MonoBehaviour {
 	void Awake()
 	{
 
-		//PlayerPrefs.DeleteAll ();
 		Instance = this;
 
 		if (!PlayerPrefs.HasKey ("HighScore"))
