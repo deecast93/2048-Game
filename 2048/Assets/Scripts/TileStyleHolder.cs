@@ -12,7 +12,6 @@ public class TileStyle
 
 public class TileStyleHolder : MonoBehaviour {
 
-	// SINGLETON
 	public static TileStyleHolder Instance;
 
 	public TileStyle[] TileStyles;
