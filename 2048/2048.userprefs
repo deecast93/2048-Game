@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreTracker.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TileStyleHolder.cs">
     <Files>
-      <File FileName="Assets/Scripts/ScoreTracker.cs" Line="22" Column="38" />
+      <File FileName="Assets/Scripts/TileStyleHolder.cs" Line="23" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

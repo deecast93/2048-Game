@@ -22,6 +22,7 @@ public class InputManager : MonoBehaviour {
 	}
 
 	// Update is called once per frame
+	//mechanic for moving the tiles.
 	void Update ()
 	{
 		if (gm.State == GameState.Playing)
