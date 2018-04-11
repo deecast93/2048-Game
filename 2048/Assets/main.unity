@@ -124,6 +124,7 @@ GameObject:
   - component: {fileID: 2650956}
   - component: {fileID: 2650955}
   - component: {fileID: 2650957}
+  - component: {fileID: 2650958}
   m_Layer: 5
   m_Name: Tile (6)
   m_TagString: Untagged
@@ -197,6 +198,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 1
   indCol: 2
+--- !u!95 &2650958
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2650953}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &19393861
 GameObject:
   m_ObjectHideFlags: 0
@@ -282,6 +300,7 @@ GameObject:
   - component: {fileID: 31632271}
   - component: {fileID: 31632270}
   - component: {fileID: 31632272}
+  - component: {fileID: 31632273}
   m_Layer: 5
   m_Name: Tile (4)
   m_TagString: Untagged
@@ -355,6 +374,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 1
   indCol: 0
+--- !u!95 &31632273
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 31632268}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &55869460
 GameObject:
   m_ObjectHideFlags: 0
@@ -435,6 +471,7 @@ GameObject:
   - component: {fileID: 97122700}
   - component: {fileID: 97122699}
   - component: {fileID: 97122701}
+  - component: {fileID: 97122702}
   m_Layer: 5
   m_Name: Tile (9)
   m_TagString: Untagged
@@ -508,6 +545,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 2
   indCol: 1
+--- !u!95 &97122702
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 97122697}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &99477998
 GameObject:
   m_ObjectHideFlags: 0
@@ -591,6 +645,7 @@ GameObject:
   - component: {fileID: 127041320}
   - component: {fileID: 127041319}
   - component: {fileID: 127041321}
+  - component: {fileID: 127041322}
   m_Layer: 5
   m_Name: Tile (14)
   m_TagString: Untagged
@@ -664,6 +719,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 3
   indCol: 2
+--- !u!95 &127041322
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 127041317}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &171704159
 GameObject:
   m_ObjectHideFlags: 0
@@ -1099,6 +1171,7 @@ GameObject:
   - component: {fileID: 380620507}
   - component: {fileID: 380620506}
   - component: {fileID: 380620508}
+  - component: {fileID: 380620509}
   m_Layer: 5
   m_Name: Tile (5)
   m_TagString: Untagged
@@ -1172,6 +1245,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 1
   indCol: 1
+--- !u!95 &380620509
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 380620504}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &383345988
 GameObject:
   m_ObjectHideFlags: 0
@@ -2305,6 +2395,7 @@ GameObject:
   - component: {fileID: 877740055}
   - component: {fileID: 877740054}
   - component: {fileID: 877740056}
+  - component: {fileID: 877740057}
   m_Layer: 5
   m_Name: Tile (7)
   m_TagString: Untagged
@@ -2378,6 +2469,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 1
   indCol: 3
+--- !u!95 &877740057
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 877740052}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &887235303
 GameObject:
   m_ObjectHideFlags: 0
@@ -2692,6 +2800,7 @@ GameObject:
   - component: {fileID: 1155796253}
   - component: {fileID: 1155796252}
   - component: {fileID: 1155796254}
+  - component: {fileID: 1155796255}
   m_Layer: 5
   m_Name: Tile (11)
   m_TagString: Untagged
@@ -2765,6 +2874,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 2
   indCol: 3
+--- !u!95 &1155796255
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1155796250}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1189182451
 GameObject:
   m_ObjectHideFlags: 0
@@ -2925,6 +3051,7 @@ GameObject:
   - component: {fileID: 1280362408}
   - component: {fileID: 1280362407}
   - component: {fileID: 1280362409}
+  - component: {fileID: 1280362410}
   m_Layer: 5
   m_Name: Tile (15)
   m_TagString: Untagged
@@ -2998,6 +3125,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 3
   indCol: 3
+--- !u!95 &1280362410
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1280362405}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1303772573
 GameObject:
   m_ObjectHideFlags: 0
@@ -3525,6 +3669,7 @@ GameObject:
   - component: {fileID: 1508868014}
   - component: {fileID: 1508868013}
   - component: {fileID: 1508868015}
+  - component: {fileID: 1508868016}
   m_Layer: 5
   m_Name: Tile (1)
   m_TagString: Untagged
@@ -3598,6 +3743,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 0
   indCol: 1
+--- !u!95 &1508868016
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1508868011}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1520510149
 GameObject:
   m_ObjectHideFlags: 0
@@ -3609,6 +3771,7 @@ GameObject:
   - component: {fileID: 1520510152}
   - component: {fileID: 1520510151}
   - component: {fileID: 1520510153}
+  - component: {fileID: 1520510154}
   m_Layer: 5
   m_Name: Tile (2)
   m_TagString: Untagged
@@ -3682,6 +3845,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 0
   indCol: 2
+--- !u!95 &1520510154
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1520510149}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1553386222
 GameObject:
   m_ObjectHideFlags: 0
@@ -3693,6 +3873,7 @@ GameObject:
   - component: {fileID: 1553386225}
   - component: {fileID: 1553386224}
   - component: {fileID: 1553386226}
+  - component: {fileID: 1553386227}
   m_Layer: 5
   m_Name: Tile (8)
   m_TagString: Untagged
@@ -3766,6 +3947,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 2
   indCol: 0
+--- !u!95 &1553386227
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1553386222}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1593458122
 GameObject:
   m_ObjectHideFlags: 0
@@ -3925,6 +4123,7 @@ GameObject:
   - component: {fileID: 1657600917}
   - component: {fileID: 1657600916}
   - component: {fileID: 1657600918}
+  - component: {fileID: 1657600919}
   m_Layer: 5
   m_Name: Tile (13)
   m_TagString: Untagged
@@ -3998,6 +4197,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 3
   indCol: 1
+--- !u!95 &1657600919
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1657600914}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1708109883
 GameObject:
   m_ObjectHideFlags: 0
@@ -4009,6 +4225,7 @@ GameObject:
   - component: {fileID: 1708109886}
   - component: {fileID: 1708109885}
   - component: {fileID: 1708109887}
+  - component: {fileID: 1708109888}
   m_Layer: 5
   m_Name: Tile (10)
   m_TagString: Untagged
@@ -4082,6 +4299,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 2
   indCol: 2
+--- !u!95 &1708109888
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1708109883}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1718984803
 GameObject:
   m_ObjectHideFlags: 0
@@ -4400,7 +4634,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   State: 0
-  delay: 0
+  delay: 0.06
   YouWonText: {fileID: 485795702}
   GameOverText: {fileID: 868756281}
   GameOverScoreText: {fileID: 1264890984}
@@ -5390,6 +5624,7 @@ GameObject:
   - component: {fileID: 2041133760}
   - component: {fileID: 2041133759}
   - component: {fileID: 2041133761}
+  - component: {fileID: 2041133762}
   m_Layer: 5
   m_Name: Tile
   m_TagString: Untagged
@@ -5463,6 +5698,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 0
   indCol: 0
+--- !u!95 &2041133762
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2041133757}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &2044755891
 GameObject:
   m_ObjectHideFlags: 0
@@ -5474,6 +5726,7 @@ GameObject:
   - component: {fileID: 2044755894}
   - component: {fileID: 2044755893}
   - component: {fileID: 2044755895}
+  - component: {fileID: 2044755896}
   m_Layer: 5
   m_Name: Tile (12)
   m_TagString: Untagged
@@ -5547,6 +5800,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 3
   indCol: 0
+--- !u!95 &2044755896
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2044755891}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &2068002911
 GameObject:
   m_ObjectHideFlags: 0
@@ -5558,6 +5828,7 @@ GameObject:
   - component: {fileID: 2068002914}
   - component: {fileID: 2068002913}
   - component: {fileID: 2068002915}
+  - component: {fileID: 2068002916}
   m_Layer: 5
   m_Name: Tile (3)
   m_TagString: Untagged
@@ -5631,6 +5902,23 @@ MonoBehaviour:
   mergedThisTurn: 0
   indRow: 0
   indCol: 3
+--- !u!95 &2068002916
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2068002911}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c90e14229cb454264ae20959ac44af2a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &2096434038
 GameObject:
   m_ObjectHideFlags: 0
